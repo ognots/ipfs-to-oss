@@ -1,0 +1,7 @@
+# git.jd.com/jcloud-api-gateway/jcloud-sdk-go v0.0.0-20191209033608-10e749437449
+git.jd.com/jcloud-api-gateway/jcloud-sdk-go/core
+git.jd.com/jcloud-api-gateway/jcloud-sdk-go/services/epns/apis
+git.jd.com/jcloud-api-gateway/jcloud-sdk-go/services/epns/client
+git.jd.com/jcloud-api-gateway/jcloud-sdk-go/services/epns/models
+# github.com/gofrs/uuid v3.2.0+incompatible
+github.com/gofrs/uuid
